@@ -1,0 +1,4 @@
+.row {
+  @apply flex 
+  flex-wrap -mr-[15px] -ml-[15px];
+}
